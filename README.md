@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 Hi 🙅
 Its SID.
-If you are here ,then you shouldn't be feel hesitate to contribute.👏👏👏
 
