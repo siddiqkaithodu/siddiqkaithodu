@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=siddiqkaithodu)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=siddiqkaithodu)](/../..)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siddiqkaithodu&theme=blux)](/../..)
