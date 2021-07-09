@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=siddiqkaithodu)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siddiqkaithodu&theme=blux)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siddiqkaithodu&theme=blux)
