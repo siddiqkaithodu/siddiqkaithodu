@@ -1,6 +1,6 @@
 ### Hi there 👋
-Its Sid. 🙉<br>
-I am a <i><b>Data Scientist</b></i> in future 🤔 uhh... Maybe.. 🙄 <br>.
+Its Sid . 🙉<br>
+I am a <i><b>Data Scientist</b></i> in future 🤔 uhh... Maybe.. 🙄 <br>
 <!--
 **siddiqkaithodu/siddiqkaithodu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
