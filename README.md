@@ -1,6 +1,6 @@
 ### Hi there 👋
 Its Sid . 🙉<br>
-I am a Future <i><b>Data Scientist</b></i> 🤔 uhh... Maybe.. 🙄 <br>
+I am a <i><b>Data Scientist</b></i> 🤔 uhh... Maybe.. in Future! 🙄 <br>
 
 - 🌱 I’m currently learning Data Science,Machine Learning and a bit of German.
 - 💬 Ask me about Python,Cpp,Javascript,PostgreSQL and German 😊.
