@@ -1,7 +1,7 @@
 ### Hi there 👋
 Its Sid . 🙉<br>
 I am a <i><b>Data Scientist</b></i> <br>🤔 uhh... Maybe.. in Future! 🙄 <br>
-Visit my personal website <br>https://www.iamsiddiq.me
+ <br>https://www.iamsiddiq.me
 - 🌱 I’m currently learning Data Science,Machine Learning and a bit of German.
 - 💬 Ask me about Python,Cpp,Javascript,PostgreSQL and German 😊.
 <!-- 
