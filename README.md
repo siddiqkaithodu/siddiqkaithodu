@@ -3,7 +3,7 @@ Its Sid . 🙉<br>
 I am a <i><b>Data Scientist</b></i> <br>🤔 uhh... Maybe.. in Future! 🙄 <br>
  <br>https://www.iamsiddiq.me
 - 🌱 I’m currently learning Data Science,Machine Learning and a bit of German.
-- 💬 Ask me about Python,Cpp,Javascript,PostgreSQL and German 😊.
+- 💬 Ask me about Python,C/C++,Javascript,PostgreSQL and German 😊.
 <!-- 
 - 🔭 I’m currently working on .
 - 👯 I’m looking to collaborate on anything
