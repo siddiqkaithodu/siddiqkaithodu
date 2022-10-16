@@ -15,3 +15,4 @@ I am a <i><b>Data Scientist</b></i> <br>🤔 uhh... Maybe.. in Future! 🙄 <br>
 [![@sid's Holopin board](https://holopin.io/api/user/board?user=sid)](https://holopin.io/@sid)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=siddiqkaithodu)](/../..)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siddiqkaithodu&theme=blux)](/../..)
+[![trophy](https://github-profile-trophy.vercel.app/?username=siddiqkaithodu)](https://www.github.com/siddiqkaithodu)
