@@ -1,6 +1,6 @@
 ### Hi there 👋
 Its Sid . 🙉<br>
- <br>https://www.iamsiddiq.me
+ <br>https://www.iamsiddiq.live
 - 🌱 I’m currently learning Data Science,Machine Learning and a bit of German.
 - 💬 Ask me about Python,C/C++,Javascript,PostgreSQL and German 😊.
 <!-- 
