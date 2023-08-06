@@ -1,9 +1,9 @@
 ### Hi there 👋
 Its Sid . 🙉<br>
- <br>https://www.iamsiddiq.live
-- 🌱 I’m currently learning Data Science,Machine Learning and a bit of German.
-- 💬 Ask me about Python,C/C++,Javascript,PostgreSQL and German 😊.
-<!-- 
+- 🌱 currently learning
+
+<!--- 💬 Ask me about Python,C/C++,Javascript,PostgreSQL and German 😊.
+ 
 - 🔭 I’m currently working on .
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with
