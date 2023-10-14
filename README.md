@@ -1,5 +1,5 @@
 ### Hi there 👋
-Its Sid . 🙉<br>
+🎂
 - 🌱 currently learning
 
 <!--- 💬 Ask me about Python,C/C++,Javascript,PostgreSQL and German 😊.
