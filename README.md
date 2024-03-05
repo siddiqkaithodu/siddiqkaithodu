@@ -1,8 +1,7 @@
 ### Hi there 👋
-🎂
+<!---
 - 🌱 currently learning
-
-<!--- 💬 Ask me about Python,C/C++,Javascript,PostgreSQL and German 😊.
+💬 Ask me about Python,C/C++,Javascript,PostgreSQL and German 😊.
  
 - 🔭 I’m currently working on .
 - 👯 I’m looking to collaborate on anything
